@@ -1,0 +1,10 @@
+[33mecb92ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Thema  oscuro/white
+[33m95040af[m Refix test 01
+[33m0efa6a8[m correcion test 01 campo namecompany
+[33m1892b9a[m Start TEST
+[33m3d1c318[m fix: agregar fullName al payload JWT para evitar crash en dashboard (AppHeader)
+[33me4c33ad[m fix: convertir postcss.config.mjs a .cjs para compatibilidad con Vercel/Turbopack
+[33m04fcf90[m fix: conectar frontend con backend via rewrites y cookies proxy
+[33mf0badd5[m cleanup: remove diagnostic.js, restore start.sh
+[33m982a5f3[m chore: add diagnostic server for Render testing
+[33m4bebb39[m fix: add 30s timeout to prisma db push to prevent startup hang
